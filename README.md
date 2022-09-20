@@ -1,2 +1,2 @@
-# ios-mod-menu-template
-ios mod menu template only kids 10-13 years old ios dev
+# ios-mod-menu-template шаблон меню мод ios только для детей 10-13 лет ios dev 
+my social network Discord Lonnezy#8699
